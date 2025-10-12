@@ -1,3 +1,4 @@
+package DesignPatterns.StrategyDesignPattern;
 interface vehicle{
     public void drive();
 }

@@ -1,3 +1,4 @@
+package SOLID_Principles;
 //Bad code which is not aliging with SRP 
 class StockManager{
     void fetchStockData(String symbol){

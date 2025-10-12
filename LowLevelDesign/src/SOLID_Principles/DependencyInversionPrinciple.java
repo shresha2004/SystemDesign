@@ -1,3 +1,4 @@
+package SOLID_Principles;
 // ----------------------------
 //  BAD DESIGN - Violates DIP
 // ----------------------------
@@ -31,7 +32,7 @@ class goodMongoDB implements Database{
         System.out.println("MongoDB is connecting....");
     }
 }
-public class DependencyInversionPriniciple {
+public class DependencyInversionPrinciple {
     public static void main(String[] args) {
         System.out.println("---- Bad Design ----");
         badMySql bM = new badMySql();

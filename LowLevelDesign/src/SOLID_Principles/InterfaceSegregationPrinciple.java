@@ -1,3 +1,6 @@
+package SOLID_Principles;
+import java.util.*;
+
 // ----------------------------
 //  BAD DESIGN - Violates ISP
 // ----------------------------
